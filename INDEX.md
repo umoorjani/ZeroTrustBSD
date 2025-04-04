@@ -44,7 +44,7 @@ By anchoring the solution on **ZeroTrustBSD** and **OpenBSD**, this architecture
 Securely interconnect EU organizations over **service-provider MPLS** using:
 
 - 🔐 ZeroTrustBSD at each canton boundary
-- 📡 Encrypted tunnels between canton, ministry, and datacenter nodes
+- 📡 Encrypted tunnels between organizations, ministries, and datacenter nodes
 - ⚙️ Centralized control via DynFi Manager in Tier IV datacenter
 - 🧩 Microsegmented VMM + Jails per tenant (e.g., administration, transport, finance)
 - 🧾 CISO Assistant to track GDPR/NIS2 per agency
